@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-353.83572"
-     inkscape:cy="427.50417"
+     inkscape:zoom="1.979899"
+     inkscape:cx="202.30294"
+     inkscape:cy="71.352018"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1324,7 +1324,7 @@
        y="192.70303"
        x="-964.80804"
        id="image3531"
-       xlink:href="file:///home/pablo/uni/tercero/Imp_3D/Prusai3_igor/doc/mios/extrusion_limits.png"
+       xlink:href="file:///home/pablo/uni/tercero/Imp_3D/Prusai3_igor/arte_y_didactica/extrusion_limits.png"
        height="533"
        width="683" />
     <text
@@ -1486,6 +1486,14 @@
          sodipodi:role="line"
          id="tspan3293">derivada de un círculo de radio r</tspan><tspan
          y="740.36975"
+         x="-255.81287"
+         sodipodi:role="line"
+         id="tspan5570" /><tspan
+         y="752.36975"
+         x="-255.81287"
+         sodipodi:role="line"
+         id="tspan5572">NO, MEJOR PENSAR EN UN RECTÁNGULO REDONDEADO</tspan><tspan
+         y="764.36975"
          x="-255.81287"
          sodipodi:role="line"
          id="tspan3268-7" /></text>
